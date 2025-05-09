@@ -34,7 +34,7 @@
 
 ## 🌐 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-carneiro-358916360/)  
 ![Email](https://img.shields.io/badge/Email-"vinicius.carneiro@gmail.com"-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
